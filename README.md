@@ -1,4 +1,4 @@
-# ESP32 Captive Portal Security Prank 🎣
+# ESP32 Captive Portal Attack Demo 🎣
 
 **This project** is an educational security demonstration project for the ESP32. It creates a "Free Wi-Fi" Access Point that mimics a public hotspot login page. When users attempt to log in, it captures the dummy credentials, logs them to the Serial Monitor, and then reveals that it was a prank—teaching a valuable lesson about digital security.
 
@@ -84,3 +84,4 @@ Name: Test
 Email: test@test.com
 Phone: 1234567890
 ===============================
+
