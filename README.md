@@ -1,6 +1,6 @@
-# ESP32 Captive Portal Attack Demo 🎣
+# Gotcha-Fi: ESP32 Captive Portal Security Prank 🎣
 
-**This project** is an educational security demonstration project for the ESP32. It creates a "Free Wi-Fi" Access Point that mimics a public hotspot login page. When users attempt to log in, it captures the dummy credentials, logs them to the Serial Monitor, and then reveals that it was a prank—teaching a valuable lesson about digital security.
+**Gotcha-Fi** is an educational security demonstration project for the ESP32. It creates a "Free Wi-Fi" Access Point that mimics a public hotspot login page. When users attempt to log in, it captures the dummy credentials, logs them to the Serial Monitor, and then reveals that it was a prank—teaching a valuable lesson about digital security.
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## Installation & Setup
 
-### 1. Install ESP32 in Arduino IDE / PlatformIO
+### 1. Install ESP32 in Arduino IDE
 1.  Go to **File > Preferences**.
 2.  Add the following URL to "Additional Board Manager URLs":
     ```text
@@ -84,4 +84,3 @@ Name: Test
 Email: test@test.com
 Phone: 1234567890
 ===============================
-
